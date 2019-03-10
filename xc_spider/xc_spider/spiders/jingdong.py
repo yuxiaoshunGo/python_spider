@@ -20,4 +20,5 @@ class BaiduSpider(scrapy.Spider):
         print(response.text.decode)
         # 测试git提交代码2
         ww
+        wwwewww
 
