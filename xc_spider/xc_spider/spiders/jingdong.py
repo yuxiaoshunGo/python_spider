@@ -3,10 +3,10 @@ import scrapy
 
 
 class BaiduSpider(scrapy.Spider):
-    name = 'baidu'
-    allowed_domains = ['baidu.com']
+    name = 'jingdong'
+    allowed_domains = ['jingdong.com']
     # start_urls = ['http://baidu.com/']
-    start_urls = ["http://www.baidu.com"]
+    start_urls = ["https://book.jd.com/"]
     custom_settings = {
         "DEFAULT_REQUEST_HEADERS": {
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
