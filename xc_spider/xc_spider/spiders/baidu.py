@@ -16,3 +16,4 @@ class BaiduSpider(scrapy.Spider):
 
     def parse(self, response):
         print(response.text)
+        print(response.text.decode)
