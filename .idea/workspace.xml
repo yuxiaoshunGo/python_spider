@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8d4bbe67-28ae-4597-adfb-b818aabb55d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc_spider/xc_spider/spiders/jingdong.py" beforeDir="false" afterPath="$PROJECT_DIR$/xc_spider/xc_spider/spiders/jingdong.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xc_spider/xc_spider/spiders/jingdong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="616">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -154,12 +155,20 @@
       <updated>1552199362594</updated>
       <workItem from="1552199372626" duration="6056000" />
       <workItem from="1552214066060" duration="38000" />
-      <workItem from="1552214108156" duration="54000" />
+      <workItem from="1552214108156" duration="326000" />
     </task>
+    <task id="LOCAL-00001" summary="冲突解决2">
+      <created>1552214228796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552214228796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6148000" />
+    <option name="totallyTimeSpent" value="6463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -201,6 +210,10 @@
       </list>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="冲突解决2" />
+    <option name="LAST_COMMIT_MESSAGE" value="冲突解决2" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/xc_spider/xc_spider/spiders/baidu.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -228,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xc_spider/xc_spider/spiders/jingdong.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="616">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
         </state>
       </provider>
     </entry>

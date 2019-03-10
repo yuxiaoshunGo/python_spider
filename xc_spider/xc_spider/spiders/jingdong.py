@@ -21,4 +21,7 @@ class BaiduSpider(scrapy.Spider):
         # 测试git提交代码2
         ww
         wwwewww
+        # 提交代码测试， 冲突2
+        abcdefg
+        123456789
 
