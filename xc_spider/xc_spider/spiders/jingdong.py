@@ -16,3 +16,5 @@ class BaiduSpider(scrapy.Spider):
 
     def parse(self, response):
         print(response.text)
+        # 测试git提交代码冲突
+        print(response.text.decode)
